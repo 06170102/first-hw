@@ -1,4 +1,10 @@
+movie==========
 zootopia
 spiderman
 avengers
+
+food=======
+curry
+steak
+ice cream
 
